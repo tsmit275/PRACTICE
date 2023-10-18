@@ -1,0 +1,3 @@
+ABOUT
+
+In this game, users are prompt to play a bet all or nothing game to earn either 30% off of their purchase of 50% off of their purchase. Users are to answer three trivia questions correctly and is then prompt a question asking whether or not they would like to bet all of their earned points so far for 50% off. If user selects no, they will only recieve 30% off but if user selects yes and answers the last question correctly, they will earn 50% off. This short trivia game was created to get consumers involved and engaged in shopping with my online store "It Girl" Essentials, where shoppers can find all of their travel essentials in one spot. 
